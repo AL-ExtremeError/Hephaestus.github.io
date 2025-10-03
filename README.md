@@ -8,6 +8,12 @@ Welcome to the Hephaestus Build Guide!
 </a>
 </p>
 
+****
+
+For the updated **"Medusa"** build, please click here for that repository: https://github.com/AL-ExtremeError/Medusa
+
+****
+
 This guide will provide information, walk-thru's and files for a CoreXY Conversion of an Elegoo Neptune 4 Max 3d Printer in which I call, Hephaestus (heh-FESS-tus).
 
 **Please Note:** Under the Build Documentation section, the links are listed in the order in which this build was done.
@@ -38,3 +44,10 @@ This guide will provide information, walk-thru's and files for a CoreXY Conversi
 ***
 
 * **[Links](https://github.com/AL-ExtremeError/Hephaestus.github.io/wiki/Links)**
+
+
+<p align="center">
+<a href="https://ko-fi.com/alextremeerror" target="_blank">
+  <img src="https://github.com/user-attachments/assets/36e3b7c7-60fd-4fd2-b6ab-95fb65e8b9cf" height=150px/>
+</a>
+</p>
